@@ -1,0 +1,17 @@
+  {
+    "name": "@kenn-chen/animcjk",
+    "version": "1.0.0",
+    "description": "Japanese kanji and kana stroke animation SVGs",
+    "files": [
+      "svgsJa",
+      "svgsJaKana",
+      "svgsJaSpecial"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kenn-chen/animCJK.git"
+    },
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com"
+    }
+  }
